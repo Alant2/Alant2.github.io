@@ -1,21 +1,27 @@
-Title         : Welcome
+Title         : Welcome 
 Author        : You
 Logo          : True
 
 [TITLE]
 ![Lasso_Logo_Feb2018]
 
-[Lasso_Logo_Feb2018]: images/Lasso_Logo_Feb2018.svg "Lasso_Logo_Feb2018" { width:100; max-width:90% }
+[Lasso_Logo_Feb2018]: images/Lasso_Logo_Feb2018.svg "Lasso_Logo_Feb2018" { width:100px; max-width:80% }
 
-# Madoko 
+# Madoko { #myheading }
 
 Madoko is a fast markdown processor for writing professional articles
 with a focus on simplicity and plain text readability.
 
 * Read the [reference manual].
 * Explore the upper-right toolbox menu to discover how Markdown works. 
-* `Alt-Q` reformats the current paragraph.
+* `Alt-Q` reformats the current paragraph. [linky](#myheading) [#myheading] &myheading;
 
 Enjoy!
+
+Here is a footnote[^fn].
+
+[^fn]: This is the content of the example footnote. 
+    You can continue a footnote by indenting content. [above](#myheading)
+    And notice the back link.
 
 [reference manual]: http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html  "Madoko reference manual"
