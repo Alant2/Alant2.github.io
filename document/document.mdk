@@ -3,6 +3,9 @@ Author        : You
 Logo          : True
 
 [TITLE]
+![Lasso_Logo_Feb2018]
+
+[Lasso_Logo_Feb2018]: images/Lasso_Logo_Feb2018.svg "Lasso_Logo_Feb2018" { width:100; max-width:90% }
 
 # Madoko 
 
