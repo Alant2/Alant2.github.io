@@ -18,6 +18,7 @@ Col        { .col-lg-4 }
 {.nav; .nav-justified}
 ~ 
 
+
 ~ Jumbotron
 # A Webpage in Madoko
 By using the bootstrap framework it is easy to create great looking
@@ -62,7 +63,6 @@ dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut
 fermentum massa. type here. which is amazing.\
 [View details &raquo;](#){.btn; .btn-primary; html-role:button}
 ~
-
 ~ End Row
 
 ~ Footer
